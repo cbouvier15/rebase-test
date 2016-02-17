@@ -11,3 +11,5 @@ Branch 2
 
 Master again
 Branch 2 (Really)
+
+Master while branch 3
